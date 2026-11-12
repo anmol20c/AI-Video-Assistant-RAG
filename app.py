@@ -15,7 +15,7 @@ from main import run_pipeline
 # -------------------------------------------------------------------
 st.set_page_config(
     page_title="VYBE AI | Video Intelligence",
-    page_icon="✦",
+    page_icon="🎥",
     layout="wide",
     initial_sidebar_state="expanded",
 )
