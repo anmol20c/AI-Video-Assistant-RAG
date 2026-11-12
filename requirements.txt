@@ -45,4 +45,5 @@ requests>=2.32.0
 pydub
 yt-dlp
 openai-whisper
-openai-whisper
+langchain-community
+sentence-transformers
